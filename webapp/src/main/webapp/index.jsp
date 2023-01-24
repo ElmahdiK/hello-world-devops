@@ -36,7 +36,7 @@
       padding: 25px;
       /*background: rgba(0, 0, 0, 0.5);*/
       /*background: darkblue;*/
-      background: purple;
+      background: orange;
       }
       .left-part, form {
       padding: 25px;
