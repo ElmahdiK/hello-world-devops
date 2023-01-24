@@ -34,8 +34,9 @@
       align-items: center;
       height: 100%;
       padding: 25px;
-      /*background: rgba(0, 0, 0, 0.5); */
-      background: darkblue;
+      /*background: rgba(0, 0, 0, 0.5);*/
+      /*background: darkblue;*/
+      background: purple;
       }
       .left-part, form {
       padding: 25px;
